@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://association.sgea.global/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://association.sgea.global/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://association.sgea.global/services.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://association.sgea.global/network.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://association.sgea.global/members.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/membership.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/news.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://association.sgea.global/contact.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/privacy.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://association.sgea.global/terms.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://association.sgea.global/disclosure.html</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://association.sgea.global/index-en.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/index-bn.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/index-ne.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/index-id.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/index-vi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://association.sgea.global/index-km.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>

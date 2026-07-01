@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="日本特定技能教育支援協会 ロゴ">
+  <rect width="96" height="96" rx="16" fill="#ffffff"/>
+  <rect x="4" y="4" width="88" height="88" rx="14" fill="#0b2f5b"/>
+  <path d="M48 16c17.7 0 32 14.3 32 32S65.7 80 48 80 16 65.7 16 48 30.3 16 48 16Z" fill="#eaf3fb"/>
+  <path d="M48 23c13.8 0 25 11.2 25 25S61.8 73 48 73 23 61.8 23 48 34.2 23 48 23Z" fill="#ffffff"/>
+  <path d="M29 50c8-11 28-11 38 0" fill="none" stroke="#10707a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M29 61c8-11 28-11 38 0" fill="none" stroke="#1c5d99" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 20v56" fill="none" stroke="#0b2f5b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M36 33h24M36 43h24" fill="none" stroke="#0b2f5b" stroke-width="5" stroke-linecap="round"/>
+</svg>
