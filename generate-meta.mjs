@@ -13,6 +13,7 @@ const organizationName = siteConfig.organization.name;
 const organizationNameShort = siteConfig.organization.nameShort;
 const organizationNameEn = siteConfig.organization.nameEn;
 const ogImage = `${baseUrl}/assets/og-image.jpg`;
+const googleSiteVerification = "uXpjpRMVkI3V3PcSwJP3xcd8gUJDxBpQJUgBcAtQjWY";
 
 const japanesePageTitles = {
   "index.html": organizationName,
@@ -97,6 +98,7 @@ for (const file of (await readdir(root)).filter((name) => name.endsWith(".html")
 
   html = html
     .replace(/\n\s*<meta name="description"[^>]*>/g, "")
+    .replace(/\n\s*<meta name="google-site-verification"[^>]*>/g, "")
     .replace(/\n\s*<meta name="robots"[^>]*>/g, "")
     .replace(/\n\s*<link rel="canonical"[^>]*>/g, "")
     .replace(/\n\s*<meta property="og:[^>]*>/g, "")
@@ -106,6 +108,7 @@ for (const file of (await readdir(root)).filter((name) => name.endsWith(".html")
 
   const metadata = [
     `  <meta name="description" content="${description}">`,
+    `  <meta name="google-site-verification" content="${googleSiteVerification}">`,
     `  <meta name="robots" content="${robots}">`,
     `  <link rel="canonical" href="${canonical}">`,
     `  <meta property="og:type" content="website">`,
